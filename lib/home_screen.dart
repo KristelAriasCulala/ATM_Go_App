@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
             children: [
 
               Text(
-                "ATM Go",
+                "ATM GO",
                 style: TextStyle(
                   fontSize: 20,
                   color: Colors.white,
